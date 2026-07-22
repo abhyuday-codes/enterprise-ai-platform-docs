@@ -349,7 +349,7 @@ Developers shall be productive within minutes.
 Platform standard:
 
 ```
-Python 3.13+
+Python 3.11+
 ```
 
 Package management:
